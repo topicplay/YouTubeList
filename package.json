@@ -1,0 +1,15 @@
+{
+  "name": "youtubelist",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topicplay/YouTubeList.git"
+  },
+  "author": "Wadim Kalmykov",
+  "license": "MIT",
+  "homepage": "https://topicplay.com"
+}

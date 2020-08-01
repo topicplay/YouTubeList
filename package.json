@@ -4,6 +4,7 @@
   "private": true,
   "description": "",
   "scripts": {
+    "generate-readme": "node scripts/generate-readme"
   },
   "repository": {
     "type": "git",

@@ -13,5 +13,9 @@
   },
   "author": "Wadim Kalmykov",
   "license": "MIT",
-  "homepage": "https://topicplay.com"
+  "homepage": "https://topicplay.com",
+  "dependencies": {
+    "got": "^11.5.1",
+    "lodash": "^4.17.19"
+  }
 }

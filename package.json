@@ -2,9 +2,10 @@
   "name": "youtubelist",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "description": "",
   "scripts": {
-    "generate-readme": "node scripts/generate-readme"
+    "generate-readme": "node --experimental-modules scripts/generate-readme.js"
   },
   "repository": {
     "type": "git",

@@ -2,7 +2,7 @@
 
 > A growing list of educational YouTube channels, ranked by popularity. New topics and channels are going to be added every week!
 
-**Homepage**: [https:://topicplay.com](https:://topicplay.com)
+**Homepage**: [https://topicplay.com](https://topicplay.com)
 
 **Contributing**: Pull requests, issues and feature requests are welcome. [Check the contributing guide](./CONTRIBUTING.md).
 

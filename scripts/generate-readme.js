@@ -12,11 +12,15 @@ const channelLink = (channel) => {
     return `[${channel.title}](https://www.youtube.com/channel/${channel.updateId})`
 }
 
+const channelTopicPlayLink = (channel) => {
+    return `[&#128279;](https://topicplay.com/d/${channel.id}-${channel.slug})`
+}
+
 const printChannels = (channels) => {
     const lines = []
     channels.sort((a, b) => b.popularityScore - a.popularityScore)
     for (let channel of channels) {
-        let markdown = '* ' + channelLink(channel) + ' - popularity: ' + channel.popularityScore
+        let markdown = `* ${channelLink(channel)} - popularity: ${channel.popularityScore} - ${channelTopicPlayLink(channel)}`
         lines.push(markdown)
     }
     return lines

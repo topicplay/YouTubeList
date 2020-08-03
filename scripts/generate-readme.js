@@ -16,7 +16,7 @@ const printChannels = (channels) => {
     const lines = []
     channels.sort((a, b) => b.popularityScore - a.popularityScore)
     for (let channel of channels) {
-        let markdown = '* ' + channelLink(channel)
+        let markdown = '* ' + channelLink(channel) + ' - popularity: ' + channel.popularityScore
         lines.push(markdown)
     }
     return lines

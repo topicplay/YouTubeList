@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "",
+  "description": "A growing list of educational YouTube channels, ranked by popularity.",
   "scripts": {
     "generate-readme": "node --experimental-modules scripts/generate-readme.js"
   },

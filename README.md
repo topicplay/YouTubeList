@@ -1,15 +1,15 @@
 # YouTubeList
 
-##  Startup
+## Startup
 
 * Slidebean: Startups 101
-* Y Combinator
 * TechCrunch
+* Y Combinator
+* This Week In Startups
 * Google for Startups
 * a16z
 * Dan Martell
 * The Startup Van
-* This Week In Startups
 * Startuprad.io
 * Greylock Partners
 * Startupfood
@@ -28,69 +28,69 @@
 * Scale Venture Partners
 * Kauffman FoundersSchool
 * Lean Startup Co.
-* SOSV - The Accelerator VC
 * PRODUCTIZED
+* SOSV - The Accelerator VC
 * Jason M. Lemkin
 * Marketplace Conference
-* MIT Venture Capital & Innovation
 * InnMind
+* MIT Venture Capital & Innovation
 * Y Combinator Clips
 * Startup School Ryerson
 * LeWeb
 
-##  Development
+## Development
 
 ### Tutorial
 
 * Programming with Mosh
-* Traversy Media
 * LearnCode.academy
+* Traversy Media
 * Fireship
 * Corey Schafer
 * Ben Awad
-* Derek Banas
 * freeCodeCamp.org
 * Socratica
-* Dev Ed
 * javidx9
+* Dev Ed
 * Telusko
 * Academind
+* Derek Banas
 * Tech With Tim
 * Java Brains
 * kudvenkat
+* edureka!
 * Data School
 * Adam Khoury
 * ProgrammingKnowledge
-* edureka!
 * Web Dev Simplified
 * Online Tutorials
-* Engineer Man
 * Red Stapler
-* Python Programmer
+* Engineer Man
 * IAmTimCorey
+* Python Programmer
 * Coder's Tape
 * mmtuts
-* Kevin Powell
 * Coding Tech
+* Kevin Powell
 * The Net Ninja
 * Keith Galli
 * Clever Programmer
 * Hitesh Choudhary
 * LevelUpTuts
-* Coding Addict
-* CodingEntrepreneurs
 * Dennis Ivy
 * techsith
+* CodingEntrepreneurs
+* Simplilearn
 * DevTips
 * DevMarketer
-* Simplilearn
+* Coding Addict
 * thenewboston
-* Wes Bos
 * Colt Steele
+* Wes Bos
 * Learn Coding Tutorials
 * LearnWebCode
-* Andre Madarang
 * Codevolution
+* Andre Madarang
 * Intellipaat
 * Tech Primers
 * Codecourse
@@ -104,50 +104,50 @@
 * Program With Erik
 * codedamn
 * Chris Courses
-* Chris Coyier
 * Webslesson
+* Chris Coyier
 * Layout Land
 * Context Free
 * Awais Mirza
 * Nick Chapsas
 * Classsed
-* howCode
 * codeSTACKr
+* howCode
 * Cave of Programming
 * Mozilla Developer
 * Mike Dane
 * Real Python
 * ScreenCasts
-* dcode
 * Steve Griffith
-* Brent Aureli's - Code School
+* dcode
 * Claudio Bernasconi
+* Brent Aureli's - Code School
 * CodingTheSmartWay.com
-* John Philip Jones
 * Ihatetomatoes
+* John Philip Jones
 * Leigh Halliday
 * Anthony Sistilli
 * KodeKloud
-* The Codeholic
 * Joseph Smith
 * Learn with Coffee
 * Dan Vega
+* Python Engineer
 * WPCasts
 * All Things JavaScript, LLC
 * OverSeas Media
-* Python Engineer
 * Kirupa Chinnathambi
-* Florin Pop
 * Vue Screencasts
 * Coders Hub
+* Florin Pop
+* Low Level JavaScript
+* The Codeholic
 * codeblobsTV
+* QiroLab
 * GeekLaunch
 * CodeLit
-* QiroLab
-* Low Level JavaScript
+* Junior Developer Central
 * Better Coding Academy
 * Pentacode
-* Junior Developer Central
 * Coding Commanders
 * A Plus Coding
 * That DevOps Guy
@@ -175,17 +175,17 @@
 * ForrestKnight
 * TheHappieCat
 * Will Kwan
-* Aaron Jack
 * Clément Mihailescu
+* Aaron Jack
 * TechLead Show
 * Nick White
-* Chris Sean
 * Andy Sterkowitz
+* Chris Sean
 * Amigoscode
 * whatsdev
-* Chris Hawkes
 * Stefan Mischook
 * The Cyber Mentor
+* Chris Hawkes
 * Gyasi Linje
 * Fun Fun Function
 * Dave Xiang
@@ -195,9 +195,9 @@
 * Keep On Coding
 * Dylan Israel
 * StartHereFM
+* Hussein Nasser
 * Brad Hussey
 * Byte By Byte
-* Hussein Nasser
 * Success in Tech
 * PB Coding
 * Simple Programmer
@@ -228,8 +228,8 @@
 * AndroidHive
 * Lets Build That App
 * CodeWithChris
-* FilledStacks
 * Archetapp
+* FilledStacks
 * CodingWithMitch
 * Brian Advent
 * MTECHVIRAL
@@ -256,11 +256,11 @@
 * ng-conf
 * LeadDev
 * ReactEurope
-* dotconferences
 * Laracon EU
+* dotconferences
 * Codegram
-* Jamstack Conf
 * WeAreDevelopers
+* Jamstack Conf
 * ReactRally
 * CernerEng
 * React Conferences by GitNation
@@ -269,15 +269,14 @@
 * Web Conferences Amsterdam
 * You Gotta Love Frontend
 * ReactiveConf
-* This Dot Media
 * JScamp
+* This Dot Media
 * Frontend Love
 * Compose Conference
-* JS Kongress
 * JavaScript Conferences by GitNation
+* JS Kongress
 * React NYC
 * CSSConf Australia
-* NebraskaJS
 * Ember.js NYC
 * BocoupLLC
 * Tech Talks YLD
@@ -288,14 +287,15 @@
 * Bay Learn
 * Frontend United
 * ViennaJS
-* ScotlandJS
-* CSScamp
 * ReactConf AU
+* CSScamp
 * hackcolab
 * Front-Trends
 * Dev Edmonton
 * ColdFront
+* ScotlandJS
 * Web Rebels
+* NebraskaJS
 * Script
 * CSS-Minsk-JS Conference
 * GraphQL Finland
@@ -331,7 +331,7 @@
 * Coding From Null
 * Simplilearn - DevOps Tutorial For Beginners
 
-##  Computer Science
+## Computer Science
 
 ### Algorithms
 
@@ -347,8 +347,8 @@
 * Errichto 2
 * Go code
 * Mikhail Tikhomirov
-* code_report
 * Algorithms Live!
+* code_report
 * Code NCode
 * abrar
 * Coding Simplified
@@ -372,10 +372,10 @@
 * Simple Snippets
 * Red Hat Summit
 * CNCF [Cloud Native Computing Foundation]
-* Andreas Kling
 * RSA Conference
 * Petr Mitrichev
 * Association for Computing Machinery (ACM)
+* Andreas Kling
 * Bits inside by René Rebe
 * FOSDEM
 * Coding Math
@@ -383,7 +383,7 @@
 * More Bits inside by René Rebe
 * Tim R Morgan
 
-##  UX / UI
+## UX / UI
 
 * DesignCourse
 * DarkCode
@@ -391,8 +391,8 @@
 * AJ&Smart
 * UX Mastery
 * Cuberto Design
-* Angga Risky
 * Jesse Showalter
+* Angga Risky
 * Mike Locke
 * NNgroup
 * Maex
@@ -407,14 +407,14 @@
 * Neuron - UX/UI Design Agency
 * Expose UX
 
-##  Data Science
+## Data Science
 
 * Two Minute Papers
 * Robert Miles
 * sentdex
 * Lex Fridman
-* Siraj Raval
 * Alexander Amini
+* Siraj Raval
 * Arxiv Insights
 * 365 Data Science
 * Aurélien Géron
@@ -423,25 +423,25 @@
 * DataCamp
 * Luis Serrano
 * Augmented Startups
-* Yannic Kilcher
 * Deeplearning.ai
 * giant_neural_network
+* Yannic Kilcher
 * Machine Learning TV
 * The Artificial Intelligence Channel
-* SuperDataScience - Tableau and Data Visualisation
 * Leo Isikdogan
+* SuperDataScience - Tableau and Data Visualisation
 * Artificial Intelligence - All in One
 * DeepLearning.TV
 * Kaggle
 * Preserve Knowledge
-* Data Science Dojo
 * Henry AI Labs
+* Data Science Dojo
 * Data Professor
 * Data Science Tutorials
 * MyStudy
-* The Data Incubator
 * Andrew Ng
 * Arpan Gupta Data Scientist, IITian
+* The Data Incubator
 * Andreas Kretz
 * Dan Van Boxel
 * MLconf

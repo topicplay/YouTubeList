@@ -23,7 +23,7 @@ const generateChannelsList = async () => {
     const categoryTags = await getCategoryTags()
 
     for (let tag of categoryTags) {
-        lines.push(`##  ${tag.name}`)
+        lines.push(`## ${tag.name}`)
         lines.push('')
 
         const channels = await channelsByTag(tag.slug)

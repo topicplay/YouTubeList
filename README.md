@@ -2,447 +2,447 @@
 
 ## Startup
 
-* Slidebean: Startups 101
-* TechCrunch
-* Y Combinator
-* This Week In Startups
-* Google for Startups
-* a16z
-* Dan Martell
-* The Startup Van
-* Startuprad.io
-* Greylock Partners
-* Startupfood
-* How to Start a Startup
-* Inside Silicon Valley
-* Garry Tan
-* SaaStr
-* Upfront Ventures
-* 500 Startups
-* Techstars
-* Startup Grind
-* The Hustle
-* Sequoia Capital
-* Customer Development Labs
-* Casey Gauss
-* Scale Venture Partners
-* Kauffman FoundersSchool
-* Lean Startup Co.
-* PRODUCTIZED
-* SOSV - The Accelerator VC
-* Jason M. Lemkin
-* Marketplace Conference
-* InnMind
-* MIT Venture Capital & Innovation
-* Y Combinator Clips
-* Startup School Ryerson
-* LeWeb
+* [Slidebean: Startups 101](https://www.youtube.com/channel/UC4bq21IPPbpu0Qrsl7LW0sw)
+* [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA)
+* [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
+* [This Week In Startups](https://www.youtube.com/channel/UCkkhmBWfS7pILYIk0izkc3A)
+* [Google for Startups](https://www.youtube.com/channel/UCkWLGZL69LhjjgGRKhcAE_w)
+* [a16z](https://www.youtube.com/channel/UC9cn0TuPq4dnbTY-CBsm8XA)
+* [Dan Martell](https://www.youtube.com/channel/UCA-mWX9CvCTVFWRMb9bKc9w)
+* [The Startup Van](https://www.youtube.com/channel/UC2S7CBpSglY7FtwVFTckfrg)
+* [Startuprad.io](https://www.youtube.com/channel/UCSrb8TyCLv7wzaTFDyogHbw)
+* [Greylock Partners](https://www.youtube.com/channel/UCZ7x7yDBbEFCGztD8BYvRhA)
+* [Startupfood](https://www.youtube.com/channel/UCYxgidQYV3WPD0eeVGOgibg)
+* [How to Start a Startup](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg)
+* [Inside Silicon Valley](https://www.youtube.com/channel/UCNwGoeALqan8yu_TC6f3ZRw)
+* [Garry Tan](https://www.youtube.com/channel/UCIBgYfDjtWlbJhg--Z4sOgQ)
+* [SaaStr](https://www.youtube.com/channel/UCwOILzAcxK5CM2M7oRBuWSg)
+* [Upfront Ventures](https://www.youtube.com/channel/UCNUaek2QR5g9VwdhtgvnQ5w)
+* [500 Startups](https://www.youtube.com/channel/UCsFOY-wGT9IOC4Okrq6UBfA)
+* [Techstars](https://www.youtube.com/channel/UClebMzrpRNTWVfZXw2jfsSw)
+* [Startup Grind](https://www.youtube.com/channel/UCwB3HiWejAkml1UZ0Qo2bFg)
+* [The Hustle](https://www.youtube.com/channel/UCyaN6mg5u8Cjy2ZI4ikWaug)
+* [Sequoia Capital](https://www.youtube.com/channel/UCWrF0oN6unbXrWsTN7RctTw)
+* [Customer Development Labs](https://www.youtube.com/channel/UCTZRbsUwGmVUdaSwiNqPw_g)
+* [Casey Gauss](https://www.youtube.com/channel/UCYTZbf7SsT3wumzSkzmv-Bg)
+* [Scale Venture Partners](https://www.youtube.com/channel/UCH537pB_h2T2miGA__o3VoQ)
+* [Kauffman FoundersSchool](https://www.youtube.com/channel/UC5P7TFldQSDBd0hoqFoRWkQ)
+* [Lean Startup Co.](https://www.youtube.com/channel/UCijWiOHJnPfVp_JW2p9fYSg)
+* [PRODUCTIZED](https://www.youtube.com/channel/UCc707M4Ey0qECi56KPqgJjA)
+* [SOSV - The Accelerator VC](https://www.youtube.com/channel/UCr3_edKFdOwK6I5L081Zy5Q)
+* [Jason M. Lemkin](https://www.youtube.com/channel/UCYSbIYzulx3HT5_OQLUH38A)
+* [Marketplace Conference](https://www.youtube.com/channel/UCuziyJ2mWmxuTspY1wg_k-Q)
+* [InnMind](https://www.youtube.com/channel/UCKHiA-dJxESze4gFBxk3ygQ)
+* [MIT Venture Capital & Innovation](https://www.youtube.com/channel/UCWEltXtreNDBJ52MJkedq4g)
+* [Y Combinator Clips](https://www.youtube.com/channel/UCWUj6Y2JwDauqu7DIrhuuPw)
+* [Startup School Ryerson](https://www.youtube.com/channel/UCxGUsvEr_6q-s5hD0jXIXVg)
+* [LeWeb](https://www.youtube.com/channel/UCNFAw6P1oKse29MlbG2YkvA)
 
 ## Development
 
 ### Tutorial
 
-* Programming with Mosh
-* LearnCode.academy
-* Traversy Media
-* Fireship
-* Corey Schafer
-* Ben Awad
-* freeCodeCamp.org
-* Socratica
-* javidx9
-* Dev Ed
-* Telusko
-* Academind
-* Derek Banas
-* Tech With Tim
-* Java Brains
-* kudvenkat
-* edureka!
-* Data School
-* Adam Khoury
-* ProgrammingKnowledge
-* Web Dev Simplified
-* Online Tutorials
-* Red Stapler
-* Engineer Man
-* IAmTimCorey
-* Python Programmer
-* Coder's Tape
-* mmtuts
-* Coding Tech
-* Kevin Powell
-* The Net Ninja
-* Keith Galli
-* Clever Programmer
-* Hitesh Choudhary
-* LevelUpTuts
-* Dennis Ivy
-* techsith
-* CodingEntrepreneurs
-* Simplilearn
-* DevTips
-* DevMarketer
-* Coding Addict
-* thenewboston
-* Colt Steele
-* Wes Bos
-* Learn Coding Tutorials
-* LearnWebCode
-* Codevolution
-* Andre Madarang
-* Intellipaat
-* Tech Primers
-* Codecourse
-* Neil Rowe
-* Treehouse
-* Romanian Coder
-* Caleb Curry
-* Julio Codes
-* Great Learning
-* Code Artistry
-* Program With Erik
-* codedamn
-* Chris Courses
-* Webslesson
-* Chris Coyier
-* Layout Land
-* Context Free
-* Awais Mirza
-* Nick Chapsas
-* Classsed
-* codeSTACKr
-* howCode
-* Cave of Programming
-* Mozilla Developer
-* Mike Dane
-* Real Python
-* ScreenCasts
-* Steve Griffith
-* dcode
-* Claudio Bernasconi
-* Brent Aureli's - Code School
-* CodingTheSmartWay.com
-* Ihatetomatoes
-* John Philip Jones
-* Leigh Halliday
-* Anthony Sistilli
-* KodeKloud
-* Joseph Smith
-* Learn with Coffee
-* Dan Vega
-* Python Engineer
-* WPCasts
-* All Things JavaScript, LLC
-* OverSeas Media
-* Kirupa Chinnathambi
-* Vue Screencasts
-* Coders Hub
-* Florin Pop
-* Low Level JavaScript
-* The Codeholic
-* codeblobsTV
-* QiroLab
-* GeekLaunch
-* CodeLit
-* Junior Developer Central
-* Better Coding Academy
-* Pentacode
-* Coding Commanders
-* A Plus Coding
-* That DevOps Guy
-* Maksim Ivanov
-* Kelvin Mai
-* Faraday Academy
-* DevSage
-* Thomas Bradley
-* Weibenfalk
-* Codepunk
-* WODA DEV
-* Deep Space - Programming Tutorials
-* Full Stack Amigo
-* Recoding
-* Coder Archive
+* [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+* [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+* [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+* [Corey Schafer](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+* [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
+* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q)
+* [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA)
+* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
+* [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+* [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q)
+* [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
+* [edureka!](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ)
+* [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+* [Adam Khoury](https://www.youtube.com/channel/UCpzRDg0orQBZFBPzeXm1yNg)
+* [ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)
+* [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+* [Red Stapler](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg)
+* [Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+* [IAmTimCorey](https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw)
+* [Python Programmer](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg)
+* [Coder's Tape](https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg)
+* [mmtuts](https://www.youtube.com/channel/UCzyuZJ8zZ-Lhfnz41DG5qLw)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [Kevin Powell](https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Keith Galli](https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw)
+* [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+* [Hitesh Choudhary](https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A)
+* [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+* [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg)
+* [techsith](https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg)
+* [CodingEntrepreneurs](https://www.youtube.com/channel/UCWEHue8kksIaktO8KTTN_zg)
+* [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
+* [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+* [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA)
+* [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+* [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw)
+* [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+* [Learn Coding Tutorials](https://www.youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA)
+* [LearnWebCode](https://www.youtube.com/channel/UCHRp19HU7Y2LwfI0Ai6WAGQ)
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+* [Andre Madarang](https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ)
+* [Intellipaat](https://www.youtube.com/channel/UCCktnahuRFYIBtNnKT5IYyg)
+* [Tech Primers](https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw)
+* [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)
+* [Neil Rowe](https://www.youtube.com/channel/UCwHrYi0GL6dmYaRB0StEbEA)
+* [Treehouse](https://www.youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw)
+* [Romanian Coder](https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw)
+* [Caleb Curry](https://www.youtube.com/channel/UCZUyPT9DkJWmS_DzdOi7RIA)
+* [Julio Codes](https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw)
+* [Great Learning](https://www.youtube.com/channel/UCObs0kLIrDjX2LLSybqNaEA)
+* [Code Artistry](https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A)
+* [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+* [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ)
+* [Chris Courses](https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA)
+* [Webslesson](https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw)
+* [Chris Coyier](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+* [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+* [Context Free](https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA)
+* [Awais Mirza](https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA)
+* [Nick Chapsas](https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg)
+* [Classsed](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg)
+* [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+* [howCode](https://www.youtube.com/channel/UCovR8D97-8qmQ8hWQW0d3ew)
+* [Cave of Programming](https://www.youtube.com/channel/UCnAdXkr17iQS8YcYl0LhPdw)
+* [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w)
+* [Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+* [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [ScreenCasts](https://www.youtube.com/channel/UCciGAxHS9o54cNxkRKb7Nfg)
+* [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ)
+* [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+* [Claudio Bernasconi](https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw)
+* [Brent Aureli's - Code School](https://www.youtube.com/channel/UCO9JvZ75Usyzgd1puurLF6A)
+* [CodingTheSmartWay.com](https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ)
+* [Ihatetomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg)
+* [John Philip Jones](https://www.youtube.com/channel/UCgMTcyEBwCfn7Z_rDYlMM0A)
+* [Leigh Halliday](https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ)
+* [Anthony Sistilli](https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg)
+* [KodeKloud](https://www.youtube.com/channel/UCSWj8mqQCcrcBlXPi4ThRDQ)
+* [Joseph Smith](https://www.youtube.com/channel/UCWxB7V9weF702avKxXESdvw)
+* [Learn with Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw)
+* [Dan Vega](https://www.youtube.com/channel/UCc98QQw1D-y38wg6mO3w4MQ)
+* [Python Engineer](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA)
+* [WPCasts](https://www.youtube.com/channel/UC8eV_x9GaQhcoL4rexOJpXg)
+* [All Things JavaScript, LLC](https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w)
+* [OverSeas Media](https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg)
+* [Kirupa Chinnathambi](https://www.youtube.com/channel/UCZCQ3LXtU3IUzMBQBqN69KQ)
+* [Vue Screencasts](https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ)
+* [Coders Hub](https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg)
+* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw)
+* [The Codeholic](https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w)
+* [codeblobsTV](https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA)
+* [QiroLab](https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow)
+* [GeekLaunch](https://www.youtube.com/channel/UCPXyziOUs7oglOtmCPhFSKQ)
+* [CodeLit](https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw)
+* [Junior Developer Central](https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q)
+* [Better Coding Academy](https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA)
+* [Pentacode](https://www.youtube.com/channel/UCJtWu3jKkIXiY3WUBb7qwpw)
+* [Coding Commanders](https://www.youtube.com/channel/UC-gCUMK_EGUqJ7P9VA7BJmQ)
+* [A Plus Coding](https://www.youtube.com/channel/UC-pLL_SFEm6B9Eeyr-V424Q)
+* [That DevOps Guy](https://www.youtube.com/channel/UCFe9-V_rN9nLqVNiI8Yof3w)
+* [Maksim Ivanov](https://www.youtube.com/channel/UC5hby9iDkwOTQM7PIjyjbgw)
+* [Kelvin Mai](https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng)
+* [Faraday Academy](https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA)
+* [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw)
+* [Thomas Bradley](https://www.youtube.com/channel/UCj4qGjIQCZdL5nIUaoFHanA)
+* [Weibenfalk](https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg)
+* [Codepunk](https://www.youtube.com/channel/UCJHJVh8WIoWze_hjNACsG5A)
+* [WODA DEV](https://www.youtube.com/channel/UCyOkTf9rHoOJ9VGbm7scB-g)
+* [Deep Space - Programming Tutorials](https://www.youtube.com/channel/UCXu-MNRftJzqQNwwzXiLFEQ)
+* [Full Stack Amigo](https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ)
+* [Recoding](https://www.youtube.com/channel/UCnhsNyu4bdDxuW1TT3hg-pg)
+* [Coder Archive](https://www.youtube.com/channel/UCWaB4SBBUCvhYb91fz5Vidg)
 
 ### Informational
 
-* Joma Tech
-* Devon Crawford
-* TechLead
-* CS Dojo
-* mayuko
-* Kalle Hallden
-* ForrestKnight
-* TheHappieCat
-* Will Kwan
-* Clément Mihailescu
-* Aaron Jack
-* TechLead Show
-* Nick White
-* Andy Sterkowitz
-* Chris Sean
-* Amigoscode
-* whatsdev
-* Stefan Mischook
-* The Cyber Mentor
-* Chris Hawkes
-* Gyasi Linje
-* Fun Fun Function
-* Dave Xiang
-* blondiebytes
-* RealToughCandy
-* CodingPhase
-* Keep On Coding
-* Dylan Israel
-* StartHereFM
-* Hussein Nasser
-* Brad Hussey
-* Byte By Byte
-* Success in Tech
-* PB Coding
-* Simple Programmer
-* Fredrik Christenson
-* Scaler Academy
-* Oleksii Sidorov
-* Michael Thomas
-* Ricky Garcia
-* Adrian Twarog
-* Aaron in Beta
-* Prismic
+* [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+* [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
+* [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+* [mayuko](https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ)
+* [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ)
+* [ForrestKnight](https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg)
+* [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g)
+* [Will Kwan](https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw)
+* [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+* [Aaron Jack](https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g)
+* [TechLead Show](https://www.youtube.com/channel/UC_us_hH43AJtU_A-iXCLmqw)
+* [Nick White](https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA)
+* [Andy Sterkowitz](https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA)
+* [Chris Sean](https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg)
+* [Amigoscode](https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw)
+* [whatsdev](https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg)
+* [Stefan Mischook](https://www.youtube.com/channel/UCyUBW72KU30dfAYWLVNZO8Q)
+* [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+* [Chris Hawkes](https://www.youtube.com/channel/UCfV36TX5AejfAGIbtwTc7Zw)
+* [Gyasi Linje](https://www.youtube.com/channel/UCbBsRNBEBu5IRGdksCDvr5A)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Dave Xiang](https://www.youtube.com/channel/UCu44AnfqsP-sRxmZHdnhblw)
+* [blondiebytes](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg)
+* [RealToughCandy](https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA)
+* [CodingPhase](https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug)
+* [Keep On Coding](https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA)
+* [Dylan Israel](https://www.youtube.com/channel/UC5Wi_NYysX-LfcqT3Hq9Faw)
+* [StartHereFM](https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg)
+* [Hussein Nasser](https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg)
+* [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA)
+* [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w)
+* [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw)
+* [PB Coding](https://www.youtube.com/channel/UCKYJJA7nYEu6HfVwmje3YXQ)
+* [Simple Programmer](https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig)
+* [Fredrik Christenson](https://www.youtube.com/channel/UC0BAd8tPlDqFvDYBemHcQPQ)
+* [Scaler Academy](https://www.youtube.com/channel/UC9JWnvl5ZjZv09F5RqiLptw)
+* [Oleksii Sidorov](https://www.youtube.com/channel/UC_prGQM-ProitVD5uEZ4z7A)
+* [Michael Thomas](https://www.youtube.com/channel/UC8-6qIUsHCybEn1f9OxSE4Q)
+* [Ricky Garcia](https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg)
+* [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)
+* [Aaron in Beta](https://www.youtube.com/channel/UCXym52jGe7cb5deJRWM3paw)
+* [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA)
 
 ### Game Dev
 
-* Brackeys
-* ThinMatrix
-* The Cherno
-* Jason Weimann
-* Awesome Tuts
-* Meth Meth Method
-* FusedVR
-* Tyler Potts
+* [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+* [ThinMatrix](https://www.youtube.com/channel/UCUkRj4qoT1bsWpE_C8lZYoQ)
+* [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw)
+* [Jason Weimann](https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg)
+* [Awesome Tuts](https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw)
+* [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ)
+* [FusedVR](https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ)
+* [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg)
 
 ### App Dev
 
-* Flutter
-* Devefy
-* AndroidHive
-* Lets Build That App
-* CodeWithChris
-* Archetapp
-* FilledStacks
-* CodingWithMitch
-* Brian Advent
-* MTECHVIRAL
-* Reso Coder
-* Paul Solt
-* Code With Andrea
-* Coding Cafe
-* Paul Halliday
-* Inspire UI
-* Paul Hudson
-* Andrew Ruffolo
-* London App Brewery
-* FlutterDeveloper
+* [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
+* [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w)
+* [AndroidHive](https://www.youtube.com/channel/UCzE_pOG_CRxqzQzCXj3fhog)
+* [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+* [CodeWithChris](https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw)
+* [Archetapp](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA)
+* [FilledStacks](https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q)
+* [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)
+* [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+* [MTECHVIRAL](https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA)
+* [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+* [Paul Solt](https://www.youtube.com/channel/UCFQKBD-GEwrGu3wBN_0yA7Q)
+* [Code With Andrea](https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q)
+* [Coding Cafe](https://www.youtube.com/channel/UCIHBIPape0dWHKANkivrcJw)
+* [Paul Halliday](https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg)
+* [Inspire UI](https://www.youtube.com/channel/UCQd30xCKstlM6PL6qtSOjFw)
+* [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
+* [Andrew Ruffolo](https://www.youtube.com/channel/UCTqkQCOfg2k27s4GJZWrkjg)
+* [London App Brewery](https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w)
+* [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg)
 
 ### Conferences
 
-* O'Reilly
-* InfoQ
-* GOTO Conferences
-* JSConf
-* React Conf
-* Confreaks
-* Netflix UI Engineering
-* ng-conf
-* LeadDev
-* ReactEurope
-* Laracon EU
-* dotconferences
-* Codegram
-* WeAreDevelopers
-* Jamstack Conf
-* ReactRally
-* CernerEng
-* React Conferences by GitNation
-* Nordic.js
-* Pusher
-* Web Conferences Amsterdam
-* You Gotta Love Frontend
-* ReactiveConf
-* JScamp
-* This Dot Media
-* Frontend Love
-* Compose Conference
-* JavaScript Conferences by GitNation
-* JS Kongress
-* React NYC
-* CSSConf Australia
-* Ember.js NYC
-* BocoupLLC
-* Tech Talks YLD
-* React Finland
-* Frontend NE
-* BlinkOn
-* BristolJS
-* Bay Learn
-* Frontend United
-* ViennaJS
-* ReactConf AU
-* CSScamp
-* hackcolab
-* Front-Trends
-* Dev Edmonton
-* ColdFront
-* ScotlandJS
-* Web Rebels
-* NebraskaJS
-* Script
-* CSS-Minsk-JS Conference
-* GraphQL Finland
-* DinosaurJS
-* MelbCSS
+* [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw)
+* [InfoQ](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g)
+* [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA)
+* [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+* [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
+* [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+* [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
+* [LeadDev](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
+* [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
+* [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A)
+* [dotconferences](https://www.youtube.com/channel/UCSRhwaM00ay0fasnsw6EXKA)
+* [Codegram](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg)
+* [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
+* [Jamstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+* [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
+* [CernerEng](https://www.youtube.com/channel/UCYHiZDU0YLN0dWLWSCP1JYQ)
+* [React Conferences by GitNation](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+* [Nordic.js](https://www.youtube.com/channel/UCTZ3O2cZo1b4JSwvhgBnAbw)
+* [Pusher](https://www.youtube.com/channel/UCoyqucxoFXDFnh3khD0rjUg)
+* [Web Conferences Amsterdam](https://www.youtube.com/channel/UCuZeHD5SGecQomz2pVDHGzg)
+* [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
+* [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
+* [JScamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ)
+* [This Dot Media](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
+* [Frontend Love](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw)
+* [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
+* [JavaScript Conferences by GitNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
+* [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg)
+* [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
+* [CSSConf Australia](https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w)
+* [Ember.js NYC](https://www.youtube.com/channel/UCr2aUYfdWdwCNTwNtjuuyJQ)
+* [BocoupLLC](https://www.youtube.com/channel/UCQUPI1PxfE4-bqwuI26I2HA)
+* [Tech Talks YLD](https://www.youtube.com/channel/UCPXA8SlHzOsPNYlXGKZRPdg)
+* [React Finland](https://www.youtube.com/channel/UCYRsLerK8J8uGWXFaprYa2A)
+* [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
+* [BlinkOn](https://www.youtube.com/channel/UCIfQb9u7ALnOE4ZmexRecDg)
+* [BristolJS](https://www.youtube.com/channel/UCPOICck6I3zqGveOs6aFT5A)
+* [Bay Learn](https://www.youtube.com/channel/UCnf609gsCjoJd_GvQ31SFVA)
+* [Frontend United](https://www.youtube.com/channel/UC6Q3-JjgMpb4Uy6YgHdJSMw)
+* [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
+* [ReactConf AU](https://www.youtube.com/channel/UCH8zjP2Ee58coDIFwniFO5w)
+* [CSScamp](https://www.youtube.com/channel/UCKmKXWKTnQjkh4SBxg-nWZg)
+* [hackcolab](https://www.youtube.com/channel/UCbnKictY3ELQwJ2scWwXhJw)
+* [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA)
+* [Dev Edmonton](https://www.youtube.com/channel/UCBC21Bfijpx4CCpjnBUdypg)
+* [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
+* [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
+* [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw)
+* [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
+* [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
+* [CSS-Minsk-JS Conference](https://www.youtube.com/channel/UCWI2akcIFeaOs_sokIN8ptw)
+* [GraphQL Finland](https://www.youtube.com/channel/UCReJkc0nO9jhVTNgm5psuFA)
+* [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
+* [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
 
 ### Other
 
-* Jabrils
-* The Coding Train
-* Bisqwit
-* Google Cloud Platform
-* Jon Gjengset
-* justforfunc: Programming in Go
-* Adam Wathan
-* Alessandro Castellani
-* Coding Garden with CJ
-* Kent C. Dodds
-* Code Insights
-* Tim Ermilov
-* Time Out With Tim
-* CoffeeBeforeArch
-* Code Fights
-* KingHerring
-* 7sharp9
-* Stephen Mayeux
-* Chill and Hack with Joel
-* anthonywritescode
-* Coders Life
-* DevHoot
-* The Renegade Coder
-* WeCode
-* Coding From Null
-* Simplilearn - DevOps Tutorial For Beginners
+* [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+* [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Bisqwit](https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg)
+* [Google Cloud Platform](https://www.youtube.com/channel/UCJS9pqu9BzkAMNTmzNMNhvg)
+* [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+* [justforfunc: Programming in Go](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
+* [Adam Wathan](https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ)
+* [Alessandro Castellani](https://www.youtube.com/channel/UCbmBY_XYZqCa2G0XmFA7ZWg)
+* [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+* [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw)
+* [Code Insights](https://www.youtube.com/channel/UCfznQ0w5WrO2unkohgNG1cQ)
+* [Tim Ermilov](https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg)
+* [Time Out With Tim](https://www.youtube.com/channel/UCSATlCAUi7R0Ik-wsZb2gOA)
+* [CoffeeBeforeArch](https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA)
+* [Code Fights](https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w)
+* [KingHerring](https://www.youtube.com/channel/UC63JyBlOxP6M7mtKXiGixRQ)
+* [7sharp9](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg)
+* [Stephen Mayeux](https://www.youtube.com/channel/UCXqwYHJKzmLO-EsBQDKfKZA)
+* [Chill and Hack with Joel](https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ)
+* [anthonywritescode](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+* [Coders Life](https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ)
+* [DevHoot](https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw)
+* [The Renegade Coder](https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw)
+* [WeCode](https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ)
+* [Coding From Null](https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w)
+* [Simplilearn - DevOps Tutorial For Beginners](https://www.youtube.com/channel/UCzm61TDWRGimc1Ab2Hnyj1w)
 
 ## Computer Science
 
 ### Algorithms
 
-* Abdul Bari
-* mycodeschool
-* Rachit Jain
-* Back To Back SWE
-* Errichto
-* Kevin Naughton Jr.
-* Jackson Gabbard
-* interviewing.io
-* WilliamFiset
-* Errichto 2
-* Go code
-* Mikhail Tikhomirov
-* Algorithms Live!
-* code_report
-* Code NCode
-* abrar
-* Coding Simplified
-* VPlanet
-* Friendly Developer
+* [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+* [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+* [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g)
+* [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ)
+* [interviewing.io](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg)
+* [WilliamFiset](https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw)
+* [Errichto 2](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+* [Go code](https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA)
+* [Mikhail Tikhomirov](https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA)
+* [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+* [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+* [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ)
+* [abrar](https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg)
+* [Coding Simplified](https://www.youtube.com/channel/UCnC0QFWfAHL1XwjJoDk60GA)
+* [VPlanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg)
+* [Friendly Developer](https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw)
 
 ### Other
 
-* Ben Eater
-* Computerphile
-* LiveOverflow
-* NetworKing
-* Tushar Roy - Coding Made Simple
-* Harkirat Singh
-* Gaurav Sen
-* Eli the Computer Guy
-* DEFCONConference
-* Tech Dummies
-* Strange Loop
-* Black Hat
-* Simple Snippets
-* Red Hat Summit
-* CNCF [Cloud Native Computing Foundation]
-* RSA Conference
-* Petr Mitrichev
-* Association for Computing Machinery (ACM)
-* Andreas Kling
-* Bits inside by René Rebe
-* FOSDEM
-* Coding Math
-* umnik_team
-* More Bits inside by René Rebe
-* Tim R Morgan
+* [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA)
+* [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [NetworKing](https://www.youtube.com/channel/UCK4ji45I-zxeWXAFKmu3p6Q)
+* [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+* [Harkirat Singh](https://www.youtube.com/channel/UCWX0cUR2rZcqKei1Vstww-A)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Eli the Computer Guy](https://www.youtube.com/channel/UCD4EOyXKjfDUhCI6jlOZZYQ)
+* [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+* [Tech Dummies](https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA)
+* [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw)
+* [Black Hat](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg)
+* [Simple Snippets](https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg)
+* [Red Hat Summit](https://www.youtube.com/channel/UC9CjkhQp1jX8Hbtbg6OZ9dw)
+* [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/channel/UCvqbFHwN-nwalWPjPUKpvTA)
+* [RSA Conference](https://www.youtube.com/channel/UCYzwGkfOqrevO-4TuTjPLwQ)
+* [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
+* [Association for Computing Machinery (ACM)](https://www.youtube.com/channel/UCPyA0XmU6aS4JCwVoIBTmIQ)
+* [Andreas Kling](https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ)
+* [Bits inside by René Rebe](https://www.youtube.com/channel/UCJLLl6AraX1POemgLfhirwg)
+* [FOSDEM](https://www.youtube.com/channel/UC9NuJImUbaSNKiwF2bdSfAw)
+* [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ)
+* [umnik_team](https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw)
+* [More Bits inside by René Rebe](https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw)
+* [Tim R Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow)
 
 ## UX / UI
 
-* DesignCourse
-* DarkCode
-* Flux
-* AJ&Smart
-* UX Mastery
-* Cuberto Design
-* Jesse Showalter
-* Angga Risky
-* Mike Locke
-* NNgroup
-* Maex
-* CareerFoundry
-* Sarah Doody
-* Human Factors International
-* Learn UX
-* UX Hacker & Sketch TV
-* Laith Wallace
-* UXLx - User Experience Lisbon
-* UX Salon
-* Neuron - UX/UI Design Agency
-* Expose UX
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow)
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+* [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+* [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)
+* [UX Mastery](https://www.youtube.com/channel/UCXmQyv8sAjmvgCCgvRKi9hw)
+* [Cuberto Design](https://www.youtube.com/channel/UCzestFrXpwSGCfcbO2pObwQ)
+* [Jesse Showalter](https://www.youtube.com/channel/UCvBGFeXbBrq3W9_0oNLJREQ)
+* [Angga Risky](https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ)
+* [Mike Locke](https://www.youtube.com/channel/UC0f9NbKjUUbnL2cOa12ENIQ)
+* [NNgroup](https://www.youtube.com/channel/UC2oCugzU6W8-h95W7eBTUEg)
+* [Maex](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ)
+* [CareerFoundry](https://www.youtube.com/channel/UCzAF54cHk1ZO82af-8E3qOQ)
+* [Sarah Doody](https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw)
+* [Human Factors International](https://www.youtube.com/channel/UC0m2hLaQnqeO0UJwb68h6tQ)
+* [Learn UX](https://www.youtube.com/channel/UCIiougY7XtqrC-40kjncEeQ)
+* [UX Hacker & Sketch TV](https://www.youtube.com/channel/UCGtjpDt8O6Es9kJza7j4MXg)
+* [Laith Wallace](https://www.youtube.com/channel/UCnpdR3kXJgs2y8o_PNddZxQ)
+* [UXLx - User Experience Lisbon](https://www.youtube.com/channel/UCvoEJgCYu1e6kvUvx7lN7kw)
+* [UX Salon](https://www.youtube.com/channel/UCHhc6c1Klab3VE2yE-529cQ)
+* [Neuron - UX/UI Design Agency](https://www.youtube.com/channel/UCHy67xvpFURfYodnzKRU3fA)
+* [Expose UX](https://www.youtube.com/channel/UCUENikUsH4h7k3msqupNjgQ)
 
 ## Data Science
 
-* Two Minute Papers
-* Robert Miles
-* sentdex
-* Lex Fridman
-* Alexander Amini
-* Siraj Raval
-* Arxiv Insights
-* 365 Data Science
-* Aurélien Géron
-* TensorFlow
-* The Semicolon
-* DataCamp
-* Luis Serrano
-* Augmented Startups
-* Deeplearning.ai
-* giant_neural_network
-* Yannic Kilcher
-* Machine Learning TV
-* The Artificial Intelligence Channel
-* Leo Isikdogan
-* SuperDataScience - Tableau and Data Visualisation
-* Artificial Intelligence - All in One
-* DeepLearning.TV
-* Kaggle
-* Preserve Knowledge
-* Henry AI Labs
-* Data Science Dojo
-* Data Professor
-* Data Science Tutorials
-* MyStudy
-* Andrew Ng
-* Arpan Gupta Data Scientist, IITian
-* The Data Incubator
-* Andreas Kretz
-* Dan Van Boxel
-* MLconf
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
+* [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
+* [Alexander Amini](https://www.youtube.com/channel/UCtslD4DGH6PKyG_1gFAX7sg)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+* [365 Data Science](https://www.youtube.com/channel/UCEBpSZhI1X8WaP-kY_2LLcg)
+* [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA)
+* [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+* [The Semicolon](https://www.youtube.com/channel/UCwB7HrnRlOfasrbCJoiZ9Lg)
+* [DataCamp](https://www.youtube.com/channel/UC79Gv3mYp6zKiSwYemEik9A)
+* [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ)
+* [Augmented Startups](https://www.youtube.com/channel/UCFJPdVHPZOYhSyxmX_C_Pew)
+* [Deeplearning.ai](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+* [giant_neural_network](https://www.youtube.com/channel/UCrBzGHKmGDcwLFnQGHJ3XYg)
+* [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
+* [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw)
+* [The Artificial Intelligence Channel](https://www.youtube.com/channel/UC5g-f-g4EVRkqL8Xs888BLA)
+* [Leo Isikdogan](https://www.youtube.com/channel/UC-YAxUbpa1hvRyfJBKFNcJA)
+* [SuperDataScience - Tableau and Data Visualisation](https://www.youtube.com/channel/UCHBWJGoZMkhJyElgvuN1U1w)
+* [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
+* [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+* [Kaggle](https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA)
+* [Preserve Knowledge](https://www.youtube.com/channel/UC9p_wQs8b8SHvfJSuuxEnvw)
+* [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+* [Data Science Dojo](https://www.youtube.com/channel/UCzL_0nIe8B4-7ShhVPfJkgw)
+* [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
+* [Data Science Tutorials](https://www.youtube.com/channel/UCk5tiFqPvdjsl7yT4mmokmg)
+* [MyStudy](https://www.youtube.com/channel/UCRhhFunXogiEK3WiinHGTAQ)
+* [Andrew Ng](https://www.youtube.com/channel/UCep6Rpvw3PtOMJWAFpKl8Yw)
+* [Arpan Gupta Data Scientist, IITian](https://www.youtube.com/channel/UCjrGJITO_pggWmjgPvUiHFA)
+* [The Data Incubator](https://www.youtube.com/channel/UCtY8JjMQpzYb5FFvUr2JnUw)
+* [Andreas Kretz](https://www.youtube.com/channel/UCY8mzqqGwl5_bTpBY9qLMAA)
+* [Dan Van Boxel](https://www.youtube.com/channel/UC6tnRFKGiq1DlybcqP5rZ7A)
+* [MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q)
 

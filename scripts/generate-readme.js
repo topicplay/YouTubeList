@@ -8,11 +8,15 @@ const README_TEMPLATE_PATH = './templates/readme.md'
 const TARGET_PATH = './README.md'
 const CHANNELS_FLAG = '%CHANNELS%'
 
+const channelLink = (channel) => {
+    return `[${channel.title}](https://www.youtube.com/channel/${channel.updateId})`
+}
+
 const printChannels = (channels) => {
     const lines = []
     channels.sort((a, b) => b.popularityScore - a.popularityScore)
     for (let channel of channels) {
-        let markdown = '* ' + channel.title
+        let markdown = '* ' + channelLink(channel)
         lines.push(markdown)
     }
     return lines

@@ -20,7 +20,7 @@ const printChannels = (channels) => {
     const lines = []
     channels.sort((a, b) => b.popularityScore - a.popularityScore)
     for (let channel of channels) {
-        let markdown = `* ${channelLink(channel)} - popularity: ${channel.popularityScore} - ${channelTopicPlayLink(channel)}`
+        let markdown = `1. ${channelLink(channel)} - popularity: ${channel.popularityScore} - ${channelTopicPlayLink(channel)}`
         lines.push(markdown)
     }
     return lines

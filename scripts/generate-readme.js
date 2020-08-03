@@ -28,12 +28,19 @@ const printChannels = (channels) => {
     return lines
 }
 
+const tagDescription = (tag) => {
+    const description = tag.description
+    if (!description) return
+    return '***' + description.replace('${subtag}', 'channels') + '***'
+}
+
 const generateChannelsList = async () => {
     const lines = []
     const categoryTags = await getCategoryTags()
 
     for (let tag of categoryTags) {
         lines.push(`## ${tag.name}`)
+        lines.push(tagDescription(tag))
         lines.push('')
 
         const channels = await channelsByTag(tag.slug)
@@ -41,6 +48,7 @@ const generateChannelsList = async () => {
         const childTags = await getChildTags(tag.id)
         for (let childTag of childTags) {
             lines.push(`### ${childTag.name}`)
+            lines.push(tagDescription(childTag))
             lines.push('')
 
             const childTagChannels = channels.filter((c) => c.tagIds.includes(childTag.id))

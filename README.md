@@ -17,6 +17,7 @@
 - [Data Science](#data-science)
 
 ## Startup
+***Best startup channels!***
 
 1. [Slidebean: Startups 101](https://www.youtube.com/channel/UC4bq21IPPbpu0Qrsl7LW0sw) - popularity: 2498 - [&#128279;](https://topicplay.com/d/30-slidebean-startups-101)
 1. [TechCrunch](https://www.youtube.com/channel/UCCjyq_K1Xwfg8Lndy7lKMpA) - popularity: 2116 - [&#128279;](https://topicplay.com/d/407-techcrunch)
@@ -55,8 +56,10 @@
 1. [LeWeb](https://www.youtube.com/channel/UCNFAw6P1oKse29MlbG2YkvA) - popularity: 49 - [&#128279;](https://topicplay.com/d/105-leweb)
 
 ## Development
+***Best development channels!***
 
 ### Tutorial
+***These channels focus on tutorials and code along.***
 
 1. [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) - popularity: 6167 - [&#128279;](https://topicplay.com/d/136-programming-with-mosh)
 1. [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) - popularity: 5640 - [&#128279;](https://topicplay.com/d/86-learncodeacademy)
@@ -181,6 +184,7 @@
 1. [Coder Archive](https://www.youtube.com/channel/UCWaB4SBBUCvhYb91fz5Vidg) - popularity: 40 - [&#128279;](https://topicplay.com/d/187-coder-archive)
 
 ### Informational
+***These channels focus on information about software development and tech career advice.***
 
 1. [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw) - popularity: 14091 - [&#128279;](https://topicplay.com/d/80-joma-tech)
 1. [Devon Crawford](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA) - popularity: 8291 - [&#128279;](https://topicplay.com/d/280-devon-crawford)
@@ -227,6 +231,7 @@
 1. [Prismic](https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA) - popularity: 188 - [&#128279;](https://topicplay.com/d/223-prismic)
 
 ### Game Dev
+***These channels focus on game development.***
 
 1. [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA) - popularity: 7369 - [&#128279;](https://topicplay.com/d/246-brackeys)
 1. [ThinMatrix](https://www.youtube.com/channel/UCUkRj4qoT1bsWpE_C8lZYoQ) - popularity: 5635 - [&#128279;](https://topicplay.com/d/242-thinmatrix)
@@ -238,6 +243,7 @@
 1. [Tyler Potts](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg) - popularity: 297 - [&#128279;](https://topicplay.com/d/259-tyler-potts)
 
 ### App Dev
+***These channels focus on mobile app development.***
 
 1. [Flutter](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw) - popularity: 2600 - [&#128279;](https://topicplay.com/d/155-flutter)
 1. [Devefy](https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w) - popularity: 1894 - [&#128279;](https://topicplay.com/d/167-devefy)
@@ -261,6 +267,7 @@
 1. [FlutterDeveloper](https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg) - popularity: 203 - [&#128279;](https://topicplay.com/d/289-flutterdeveloper)
 
 ### Conferences
+***These channels focus on recordings of development conferences and talks.***
 
 1. [O'Reilly](https://www.youtube.com/channel/UC3BGlwmI-Vk6PWyMt15dKGw) - popularity: 1207 - [&#128279;](https://topicplay.com/d/90-oreilly)
 1. [InfoQ](https://www.youtube.com/channel/UCkQX1tChV7Z7l1LFF4L9j_g) - popularity: 1148 - [&#128279;](https://topicplay.com/d/95-infoq)
@@ -348,8 +355,10 @@
 1. [Simplilearn - DevOps Tutorial For Beginners](https://www.youtube.com/channel/UCzm61TDWRGimc1Ab2Hnyj1w) - popularity: 31 - [&#128279;](https://topicplay.com/d/354-simplilearn-devops-tutorial-for-beginners)
 
 ## Computer Science
+***Best Computer Science channels!***
 
 ### Algorithms
+***These channels focus on data structures, algorithms and competitive programming.***
 
 1. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) - popularity: 5843 - [&#128279;](https://topicplay.com/d/219-abdul-bari)
 1. [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA) - popularity: 2419 - [&#128279;](https://topicplay.com/d/326-mycodeschool)
@@ -400,6 +409,7 @@
 1. [Tim R Morgan](https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow) - popularity: 57 - [&#128279;](https://topicplay.com/d/373-tim-r-morgan)
 
 ## UX / UI
+***These channels focus on user experience and user interface design.***
 
 1. [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow) - popularity: 2531 - [&#128279;](https://topicplay.com/d/135-designcourse)
 1. [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) - popularity: 1700 - [&#128279;](https://topicplay.com/d/169-darkcode)
@@ -424,6 +434,7 @@
 1. [Expose UX](https://www.youtube.com/channel/UCUENikUsH4h7k3msqupNjgQ) - popularity: 54 - [&#128279;](https://topicplay.com/d/470-expose-ux)
 
 ## Data Science
+***These channels focus on data science and machine learning.***
 
 1. [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg) - popularity: 6044 - [&#128279;](https://topicplay.com/d/497-two-minute-papers)
 1. [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg) - popularity: 5595 - [&#128279;](https://topicplay.com/d/489-robert-miles)

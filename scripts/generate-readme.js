@@ -1,11 +1,13 @@
 import { readFileSync, writeFileSync } from 'fs'
 import lodash from 'lodash'
 const { intersection } = lodash
+import toc from 'markdown-toc'
 import { categoryTags as getCategoryTags, childTags as getChildTags } from '../src/Tags.js'
 import { channelsByTag } from '../src/Channels.js'
 
 const README_TEMPLATE_PATH = './templates/readme.md'
 const TARGET_PATH = './README.md'
+const INDEX_FLAG = '%INDEX%'
 const CHANNELS_FLAG = '%CHANNELS%'
 
 const channelLink = (channel) => {
@@ -66,10 +68,12 @@ const generateChannelsList = async () => {
 const buildReadme = async () => {
     const readme = readFileSync(README_TEMPLATE_PATH, 'utf-8')
     const channelsList = await generateChannelsList()
+    const tableOfContents = toc(channelsList).content
 
     return readme
         .split('\n')
         .map((line) => {
+            if (line.includes(INDEX_FLAG)) return tableOfContents
             if (line.includes(CHANNELS_FLAG)) return channelsList
             return line
         })

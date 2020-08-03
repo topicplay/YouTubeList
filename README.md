@@ -1,5 +1,21 @@
 # YouTubeList
 
+## Channels (English)
+
+- [Startup](#startup)
+- [Development](#development)
+  * [Tutorial](#tutorial)
+  * [Informational](#informational)
+  * [Game Dev](#game-dev)
+  * [App Dev](#app-dev)
+  * [Conferences](#conferences)
+  * [Other](#other)
+- [Computer Science](#computer-science)
+  * [Algorithms](#algorithms)
+  * [Other](#other-1)
+- [UX / UI](#ux--ui)
+- [Data Science](#data-science)
+
 ## Startup
 
 1. [Slidebean: Startups 101](https://www.youtube.com/channel/UC4bq21IPPbpu0Qrsl7LW0sw) - popularity: 2498 - [&#128279;](https://topicplay.com/d/30-slidebean-startups-101)

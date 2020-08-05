@@ -12,6 +12,8 @@ A big thank you to Erik and his repo [Amazing Developers On YouTube](https://git
 
 ## Channels (English)
 
+Channels Added: 409
+
 - [Startup](#startup)
 - [Development](#development)
   * [Tutorial](#tutorial)

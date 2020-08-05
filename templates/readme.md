@@ -12,6 +12,8 @@ A big thank you to Erik and his repo [Amazing Developers On YouTube](https://git
 
 ## Channels (English)
 
+%STATS%
+
 %INDEX%
 
 %CHANNELS%

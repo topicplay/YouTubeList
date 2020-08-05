@@ -7,6 +7,7 @@ import { channelsByTag } from '../src/Channels.js'
 
 const README_TEMPLATE_PATH = './templates/readme.md'
 const TARGET_PATH = './README.md'
+const STATS_FLAG = '%STATS%'
 const INDEX_FLAG = '%INDEX%'
 const CHANNELS_FLAG = '%CHANNELS%'
 
@@ -73,14 +74,20 @@ const generateChannelsList = async () => {
     return lines.join('\n')
 }
 
+const totalChannelCount = (channelsList) => {
+    return channelsList.split('\n').filter((line) => line.startsWith('1.')).length
+}
+
 const buildReadme = async () => {
     const readme = readFileSync(README_TEMPLATE_PATH, 'utf-8')
     const channelsList = await generateChannelsList()
     const tableOfContents = toc(channelsList).content
+    const stats = `Channels Added: ${totalChannelCount(channelsList)}`
 
     return readme
         .split('\n')
         .map((line) => {
+            if (line.includes(STATS_FLAG)) return stats
             if (line.includes(INDEX_FLAG)) return tableOfContents
             if (line.includes(CHANNELS_FLAG)) return channelsList
             return line

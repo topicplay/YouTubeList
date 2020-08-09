@@ -11,6 +11,12 @@ jobs:
     steps:
     - uses: actions/checkout@master
 
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '14'
+        
+    - run: npm install
+
     - name: run generate-readme
       run: npm run generate-readme
     

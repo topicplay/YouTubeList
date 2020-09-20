@@ -28,12 +28,12 @@ const allTags = async () => {
 
 export const categoryTags = async () => {
     const tags = await allTags()
-    return tags.filter((t) => t.type === 'primary' && t.isChild === false)
+    return tags.filter((t) => t.type === 'primary' && t.isChild === false).sort((a, b) => a.position - b.position)
 }
 
 export const childTags = async (parentId) => {
     const tags = await allTags()
-    return tags.filter((t) => t.type === 'primary' && t.parentId === parentId)
+    return tags.filter((t) => t.type === 'primary' && t.parentId === parentId).sort((a, b) => a.position - b.position)
 }
 
 // childTags('12').then((r) => console.log(r))

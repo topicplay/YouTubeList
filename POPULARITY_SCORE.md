@@ -5,7 +5,7 @@ Popularity score is based on video views on YouTube: the total video views of th
 ```js
 const viewCountScore = Math.pow(totalViews, 0.4)
 const medianViewScore = Math.pow(medianViews * 2, 0.7)
-const timeAdjustment = Math.pow(0.8, halfYearsSinceLastUpload)
+const timeAdjustment = Math.pow(0.7, halfYearsSinceLastUpload)
 
 const popularityScore = Math.round((viewCountScore + medianViewScore) * timeAdjustment)
 ```
